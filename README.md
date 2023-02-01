@@ -8,7 +8,7 @@
 Create a custom class called Pokemon. Have two instances of your class interact. They can battle, have a picnic, tell a story, etc. 
 
 
-Your program can do/be about whatever you like as long as you meet the basic requirements. The Pokemon example is the default template for the assignment. If creating Pokemon, the program must be a clear refactoring of the first Pokemon class your programmed:
+Your program can do/be about whatever you like as long as you meet the basic requirements. The Pokemon example is the default template for the assignment. If creating Pokemon, the program must be a clear refactoring of the first Pokemon class you programmed:
 
 
 
